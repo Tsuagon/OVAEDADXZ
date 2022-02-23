@@ -141,7 +141,7 @@ zaworld.SoundId = "rbxassetid://616576400"
 zaworld.Volume = 0.8
 zaworld.Parent = hrp
 local wry = Instance.new("Sound")
-wry.SoundId = "rbxassetid://276152532"
+wry.SoundId = "rbxassetid://8775882171"
 wry.Volume = 5
 wry.Parent = hrp
 function animo(yep)
